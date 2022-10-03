@@ -1,11 +1,12 @@
 # Contra-NDA
 
-**TLDR: Companies wants NDA from me as candidate; I as candidate want Contra-NDA from companies.**
+**TLDR: Companies want NDA from me as candidate; I as candidate want Contra-NDA from companies.**
 More info at https://github.com/panchul/contra-nda
 
 ---
 
 ![Coming-To-America-Employee-of-the-Month-Certificate](pics/Coming-To-America-Employee-of-the-Month-Certificate-1.jpg)
+
 Dedicated to prince Akeem from Coming to America (c) 1988 Paramount Pictures, Eddie Murphy Productions.
 
 ## Contra-NDA Manifesto
